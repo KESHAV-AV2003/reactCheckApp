@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactCheckApp/static/css/main.25a34375.css",
+    "main.js": "/reactCheckApp/static/js/main.8ea9ffd7.js",
+    "static/js/787.785faaa0.chunk.js": "/reactCheckApp/static/js/787.785faaa0.chunk.js",
+    "index.html": "/reactCheckApp/index.html",
+    "main.25a34375.css.map": "/reactCheckApp/static/css/main.25a34375.css.map",
+    "main.8ea9ffd7.js.map": "/reactCheckApp/static/js/main.8ea9ffd7.js.map",
+    "787.785faaa0.chunk.js.map": "/reactCheckApp/static/js/787.785faaa0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25a34375.css",
+    "static/js/main.8ea9ffd7.js"
+  ]
+}
